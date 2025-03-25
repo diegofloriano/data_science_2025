@@ -1,4 +1,5 @@
-# ![Logo da Instituição](pic\logo.jpg)
+<img src="pic/logo.jpg" alt="Logo da Instituição" style="display: block; margin: auto;">
+
 
 # 📊 Disciplina de Data Science Turma 2025
 
