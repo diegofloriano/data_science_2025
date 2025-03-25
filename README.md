@@ -1,4 +1,4 @@
-<img src="pic/logo.jpg" alt="Logo da Instituição" style="display: block; margin: auto;">
+<img src="pic/logo.jpg" alt="IFSP" width="100" style="display: block; margin: auto;">
 
 
 # 📊 Disciplina de Data Science Turma 2025
